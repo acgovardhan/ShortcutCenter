@@ -1,6 +1,6 @@
 # 🔖 Shortcut Center
 
-**Shortcut Center** is a lightweight and privacy-focused web app that allows you to save and manage an unlimited number of website shortcuts — all stored locally on your device.
+**Shortcut Center** is a lightweight and privacy-focused web app that allows you to save and manage an unlimited number of website shortcuts all stored locally on your device.
 
 It was inspired by the limitation of Chrome's default shortcut feature, which only allows a limited number of links. Shortcut Center provides a simple, responsive interface where users can create, edit, and delete a personalized list of website shortcuts, now with the added ability to include **descriptions** for each shortcut to help track deadlines, tasks, or other useful context.
 
